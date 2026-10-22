@@ -20,7 +20,8 @@ Data note: The values shown in the dashboard screenshot (such as Total Profit of
 - GitHub — project documentation and portfolio presentation.
 Keep only the tools and techniques you actually used.
 - 📊## Dashboard Overview
-- "C:\Users\HomePC\Pictures\Screenshots\Screenshot 2026-09-28 105238.png"
+- ![Uploading Screenshot 2026-09-28 105238.png…]()
+
 - 
 1. KPI Cards
 - Total Profit — total profit in the selected filter context.
@@ -150,11 +151,15 @@ RETURN
 
 
 
-## references 
+## references & dataset 
 - Microsoft Power BI documentation: https://learn.microsoft.com/en-us/power-bi/
 - DAX function reference: https://learn.microsoft.com/en-us/dax/
 - Power Query documentation: https://learn.microsoft.com/en-us/power-query/
-- 
+-  <img width="829" height="555" alt="Screenshot 2026-10-22 113302" src="https://github.com/user-attachments/assets/679fb05a-e8fb-4786-a8e0-3c9fc923715f" />
+-  <img width="898" height="543" alt="Screenshot 2026-10-22 113738" src="https://github.com/user-attachments/assets/f2094b40-35f3-4f2d-aed4-b2496a3090e3" />
+
+
+
 - ##👤 Author
 - ### Peter Kess
 - Portfolio: https://canva.link/a3iaibbhnnz0b75
